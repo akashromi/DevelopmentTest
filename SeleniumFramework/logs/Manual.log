@@ -32384,3 +32384,4 @@
 2015-12-02 15:44:57,594 [main] INFO SeleniumFunctions - Clicked the locator //a[@rn='LoginButton']
 2015-12-02 15:44:57,597 [main] INFO GeneralAdministration - User logged in to Siebel App
 2015-12-02 15:44:57,605 [main] INFO SeleniumFunctions - Waiting for locator div[rn='CS Salutation Applet (WCS Home)']
+**********************************************************************
